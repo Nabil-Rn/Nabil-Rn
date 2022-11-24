@@ -18,4 +18,7 @@
                      email: Nabilr619+git@gmail.com
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nabil-Rn&theme=onedark)](https://github.comNabil-Rn/github-profile-trophy)
+
+
 ![octocat-1669324408123](https://user-images.githubusercontent.com/98413966/203863893-a9a6dd93-047c-4c04-af27-f39f2361a2de.png)
