@@ -5,7 +5,7 @@
            I'm trying to understand github and JAVA.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                              What I think i know
+                             What I think i know
     JAVA - Oracle SQL - HTML/CSS (Javascript later on hahaaaaaaaaaaaaaa)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -13,12 +13,13 @@
                             JAVA - Oracle SQL 
                     (french level 1/10 - english 7/10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                                Contect me
-              ~~aaaaaaaaaaaaaa can't think of reason for you to do so~~
-                     email: Nabilr619+git@gmail.com
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nabil-Rn&theme=onedark)](https://github.comNabil-Rn/github-profile-trophy)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabil-Rn&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nabil-Rn&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Rn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![octocat-1669324408123](https://user-images.githubusercontent.com/98413966/203863893-a9a6dd93-047c-4c04-af27-f39f2361a2de.png)
