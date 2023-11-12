@@ -7,7 +7,9 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                              What I think i know
                       Java, C#, HTML, JS, PHP, SQL, Dart
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                Studying
+                            PHP, Flutter
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nabil-Rn&theme=onedark)](https://github.comNabil-Rn/github-profile-trophy)
