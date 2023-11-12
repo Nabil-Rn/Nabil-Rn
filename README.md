@@ -2,16 +2,12 @@
                       
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
            I'm a Vanier student studying computer science technology
-           I'm trying to understand github and JAVA.
+           I'm exciting to learn new things and create cool projects.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                              What I think i know
-    JAVA - Oracle SQL - HTML/CSS (Javascript later on hahaaaaaaaaaaaaaa)
+                      Java, C#, HTML, JS, PHP, SQL, Dart
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                                Studying
-                            JAVA - Oracle SQL 
-                    (french level 1/10 - english 7/10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nabil-Rn&theme=onedark)](https://github.comNabil-Rn/github-profile-trophy)
