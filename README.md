@@ -1,16 +1,47 @@
-                      **Hello! My name is Nabil**
-                      
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-           I'm a Vanier student studying computer science technology
-           I'm exciting to learn new things and create cool projects.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                             What I think i know
-                      Java, C#, HTML, JS, PHP, SQL, Dart
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                                Studying
-                            PHP, Flutter
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Hello! My name is Nabil
+
+> I'm a Vanier student studying computer science technology. I'm excited to learn new things and create cool projects.
+
+
+| Language/Technology | Proficiency |
+|---------------------|-------------|
+| C#									| Advanced    |
+| SQL                 | Advanced    |
+| JavaScript          | Intermediate|
+| HTML/CSS            | Intermediate|
+| Java                | Intermediate|
+| PHP                 | Intermediate|
+| Flutter             | Intermediate|
+|Networks             | Intermediate|
+|IoT                  | Beginner    |
+| Python              | Beginner    |
+| Unity 3D            | Beginner    |
+
+
+## Currently Studying
+- More PHP, Web Services
+- More C#
+- Unity 3D
+- Networks
+- Python in Iot 
+
+
+```mermaid
+graph TD
+    A[Start] --> B(Year 1)
+    A --> 			C(Year 2)
+    A --> 			D(Year 3)
+    B --> E(Java)
+    B --> F(OOP)
+    B --> G(SQL)
+    C --> H(C#)
+    C --> I(Programming patterns)
+    C --> J(Flutter)
+    D --> K(Web Services)
+    D --> L(Python in IoT)
+    D --> M(Unity 3D)
+```
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nabil-Rn&theme=onedark)](https://github.comNabil-Rn/github-profile-trophy)
 
