@@ -4,21 +4,6 @@
 > I'm a Vanier student studying computer science technology. I'm excited to learn new things and create cool projects.
 
 
-| Language/Technology | Proficiency |
-|---------------------|-------------|
-| C#									| Advanced    |
-| SQL                 | Advanced    |
-| JavaScript          | Intermediate|
-| HTML/CSS            | Intermediate|
-| Java                | Intermediate|
-| PHP                 | Intermediate|
-| Flutter             | Intermediate|
-|Networks             | Intermediate|
-|IoT                  | Beginner    |
-| Python              | Beginner    |
-| Unity 3D            | Beginner    |
-
-
 ## Currently Studying
 - More PHP, Web Services
 - More C#
@@ -52,3 +37,19 @@ graph TD
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Rn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![octocat-1669324408123](https://user-images.githubusercontent.com/98413966/203863893-a9a6dd93-047c-4c04-af27-f39f2361a2de.png)
+
+
+
+| Language/Technology | Proficiency |
+|---------------------|-------------|
+| C#									| Advanced    |
+| SQL                 | Advanced    |
+| JavaScript          | Intermediate|
+| HTML/CSS            | Intermediate|
+| Java                | Intermediate|
+| PHP                 | Intermediate|
+| Flutter             | Intermediate|
+|Networks             | Intermediate|
+|IoT                  | Beginner    |
+| Python              | Beginner    |
+| Unity 3D            | Beginner    |
